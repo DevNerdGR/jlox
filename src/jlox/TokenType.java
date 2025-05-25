@@ -1,3 +1,5 @@
+package jlox;
+
 enum TokenType {
     //Tokens
     LEFT_PAREN, RIGHT_PAREN, LEFT_CURLY, RIGHT_CURLY,
